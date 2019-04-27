@@ -25,5 +25,6 @@ sample_submission.csv contains the submission format for the predictions against
 Submissions are evaluated on area under the ROC curve between the predicted probability and the observed target.
 
 ## Leaderboard
-Rank# 91, 
-Score 0.6648652946
+Rank# 91 (out of 1300 participants)
+
+Score 0.6648652946 (Highest score on the leaderboard for Rank#1 is 0.6731722217)
